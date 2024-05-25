@@ -2,7 +2,7 @@ Olá! Eu sou o Brayan Favarin
 👯 Hoje trabalho como suporte T.I na PanteraFood, e faço alguns freelance
 🤔 Estudando JavaScript/HTML/CSS & C
 
-!Anurag's GitHub stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanfv&layout=compact&theme=dark)](https://github.com/brayanfv/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
