@@ -1,5 +1,5 @@
 Olá! Eu sou o Brayan Favarin
-👯 Hoje trabalho como suporte T.I na PanteraFood, e faço alguns freelance
+👯 Hoje estudo ciencias da computação, e faço alguns freelance
 🤔 Estudando JavaScript/HTML/CSS & C
 
 
