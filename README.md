@@ -1,6 +1,6 @@
 Olá! Eu sou o Brayan Favarin
 👯 Hoje estudo ciencias da computação, e faço alguns freelance
-🤔 Estudando JavaScript/HTML/CSS & C
+🤔 Estudando JavaScript/HTML/CSS/Angular/React/C/Java/Spring
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanfv&layout=compact&theme=dark)](https://github.com/brayanfv/github-readme-stats)
