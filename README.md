@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Brayan Favarin
 - 👯 Hoje estudo ciencias da computação, e me dedico ao máximo para ser um ótimo profissional !
 - 🤔 Estudando JavaScript/HTML/CSS/Angular/React/C/Java/Spring !
-- Atualmente trabalho na Simples Dental como desenvolvedor !
+- 💼 Atualmente trabalho na Simples Dental como desenvolvedor !
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanfv&layout=compact&theme=dark)](https://github.com/brayanfv/github-readme-stats)
