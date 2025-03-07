@@ -33,7 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-###
 
 </div>
   <a href="https://www.instagram.com/brayanfavarin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -43,8 +42,9 @@
   <a href="https://gitlab.com/brayanfv" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </div>
 
+
 <img src="https://raw.githubusercontent.com/brayanfv/brayanfv/output/snake.svg" alt="Snake animation" />
 
-###
+
 
 
