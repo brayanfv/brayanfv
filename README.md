@@ -3,6 +3,10 @@
 - 🤔 Estudando JavaScript/HTML/CSS/Angular/React/C/C++/Java/Spring 
 - 💼 Atualmente trabalho na Simples Dental como desenvolvedor
 
+
+###
+  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanfv&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanfv&layout=compact&theme=dark)](https://github.com/brayanfv/github-readme-stats)
 <div align="left">
@@ -34,6 +38,7 @@
 </div>
 
 
+###
 
 
 </div>
@@ -43,6 +48,9 @@
   <a href="https://www.linkedin.com/in/brayan-favarin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gitlab.com/brayanfv" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </div>
+
+
+###
 
 
 <img src="https://raw.githubusercontent.com/brayanfv/brayanfv/output/snake.svg" alt="Snake animation" />
