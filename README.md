@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Brayan Favarin
 - 👯 Hoje estudo ciencias da computação, e me dedico ao máximo para ser um ótimo profissional 
 - 🤔 Estudando JavaScript/HTML/CSS/Angular/React/C/C++/Java/Spring 
-- 💼 Atualmente trabalho na Simples Dental como desenvolvedor
+- 💼 Atualmente sou estagiário na Simples Dental 
 
 
 ###
