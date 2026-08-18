@@ -44,12 +44,6 @@ Portfólio profissional desenvolvido para apresentar minha trajetória, experiê
 
 🌐 [Acessar portfólio](https://brayan-portfolio.vercel.app)
 
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayanfv&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanfv&layout=compact&theme=github_dark&hide_border=true)
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brayan_Favarin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-favarin/)
