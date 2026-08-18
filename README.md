@@ -42,7 +42,7 @@ Portfólio profissional desenvolvido para apresentar minha trajetória, experiê
 
 **Stack:** Next.js • TypeScript • Tailwind CSS
 
-🌐 [Acessar portfólio](https://brayan-portfolio.vercel.app)
+🌐 [Acessar portfólio](https://brayan-favarin-portfolio.vercel.app)
 
 ## 📫 Contato
 
